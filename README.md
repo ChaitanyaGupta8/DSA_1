@@ -1,4 +1,4 @@
-# Demo_1
+# DSA skillUp
 This is my first git repository.
 <br>
 Author-Chaitanya Gupta
